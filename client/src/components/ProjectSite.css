@@ -1,0 +1,11 @@
+.ps-align-card {
+    padding-left: 200px;
+    padding-bottom: 500px;
+}
+
+.total {
+    font-size: 17px;
+    float: right;
+    font-weight: bold;
+    padding-top: 50px;
+}

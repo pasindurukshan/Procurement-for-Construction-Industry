@@ -1,0 +1,28 @@
+.go-align-card {
+    padding-left: 200px;
+    padding-bottom: 500px;
+}
+
+.go-header-card {
+    padding-left: 100px;
+    padding-right: 100px;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.go-or {
+    font-size: 18px;
+    color: rgb(255, 200, 33);
+}
+
+.go-total-card {
+    padding-left: 890px;
+    padding-right: 100px;
+    font-weight: bold;
+}
+
+.grn {
+    padding-left: 898px;
+    position: fixed;
+
+}

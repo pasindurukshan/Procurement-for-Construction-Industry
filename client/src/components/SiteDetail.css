@@ -1,0 +1,16 @@
+.sd-card-body {
+    background-color: rgb(179, 175, 175);
+    height: 950px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.as-card-body {
+    background-color: rgb(179, 175, 175);
+    height: 950px;
+    font-size: 20px;
+    padding-left: 20px;
+    font-weight: bold;
+}

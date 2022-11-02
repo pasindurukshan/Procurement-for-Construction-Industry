@@ -1,0 +1,26 @@
+.ol-align-card {
+    padding-left: 200px;
+    padding-bottom: 500px;
+}
+
+.header {
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 50px;
+    font-weight: bold;
+    font-size: 40px;
+
+}
+
+.report {
+    float: right;
+}
+
+.table-order {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.theah {
+    background-color: darksalmon;
+}

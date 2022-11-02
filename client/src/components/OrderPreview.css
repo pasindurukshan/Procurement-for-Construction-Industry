@@ -1,0 +1,78 @@
+.pr-align-card {
+    padding-left: 200px;
+    padding-bottom: 500px;
+
+}
+
+.pr-main {
+    padding-bottom: 150px;
+}
+
+.pr-header {
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 50px;
+    font-weight: bold;
+    font-size: 40px;
+
+}
+
+.report {
+    float: right;
+}
+
+.pr-table-order {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.pr-theah {
+    background-color: darksalmon;
+}
+
+.pr-tbody {
+    font-weight: bold;
+}
+
+.pr-card {
+    padding-left: 98px;
+}
+
+.pr-card-body {
+    font-weight: bold;
+    font-size: 16px;
+    background-color: rgb(224, 223, 223);
+    width: 450px;
+
+    height: 278px;
+    border-radius: 10px;
+    padding-left: 25px;
+
+}
+
+.pr-light {
+    font-weight: normal;
+    color: rgb(90, 90, 90);
+}
+
+.pr-card-2 {
+    padding-right: 100px;
+}
+
+.pr-card-body-2 {
+    font-weight: bold;
+    font-size: 16px;
+    background-color: rgb(224, 223, 223);
+    width: 520px;
+    height: 278px;
+    border-radius: 10px;
+
+}
+
+.sup-drop {
+    width: 220px;
+}
+
+.pr-align {
+    padding-left: 25px;
+}
